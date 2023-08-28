@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "745169089506",
+    "project_id": "aktifa-c91c4",
+    "storage_bucket": "aktifa-c91c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745169089506:android:957a6b3f5b221a83007fbb",
+        "android_client_info": {
+          "package_name": "com.mycompany.bloodbank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745169089506-ogqdh0134oq6n0evni055l6n699ngmi9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.bloodbank",
+            "certificate_hash": "c5042d1bdc0202ec22311347cf8acd6e9e90e066"
+          }
+        },
+        {
+          "client_id": "745169089506-npklifnrdm2cbbt3fgrs244ee3mf8bsf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMryyAk64HIwBfe_As2GiHWqEUhuEe5j8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745169089506-npklifnrdm2cbbt3fgrs244ee3mf8bsf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
